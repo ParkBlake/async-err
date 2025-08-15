@@ -1,11 +1,12 @@
 [package]
 name = "async-err"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 authors = ["Blake Park <blake.r.park@gmail.com>"]
 license = "MIT"
 description = "Contextual asynchronous error handling."
 repository = "https://github.com/ParkBlake/async-err"
+documentation = "https://docs.rs/async-err"
 
 [dependencies]
 once_cell = "1.21.3"
